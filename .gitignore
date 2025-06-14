@@ -1,0 +1,7 @@
+# Ignore requirements.txt
+
+.requirements.txt
+
+# Ignore the src file
+
+src/*

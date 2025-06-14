@@ -1,0 +1,7 @@
+pandas
+seaborn
+matplotlib
+plotly
+textstat
+textblob
+scikit-learn
