@@ -1,4 +1,3 @@
-# Prompt-Analyser
 # Prompt Analyser
 
 ## Overview
@@ -50,31 +49,31 @@ The following project has been evaluated by the following metrics mentioned belo
 
 ## Best Practices for Prompt Engineering
 
-> Response Length and Clarity 
+> **Response Length and Clarity** 
 
  - Commands are the most effective for detailed responses especially for better structure in repsonse layout and response length. This can be effectively utilised in business queries.
 
  - Open ended prompts have better variation in clarity and often suit more for human-centered conversations, which show that these can be leveraged better in chatbot use-cases.
 
-> Prompt Structure and Length
+> **Prompt Structure and Length**
 
  - Users should often aim for specific and concise prompting to help guide the LLM towards more structured responses that utlise control and relevance to prompt query. This helps the LLM from deviating and rather provide better responses for users.
 
  - Long prompt queries can be utlised to help generate longer responses, but only upto a certain degree and depending on the prompt type. Mostly Open-Ended prompts and commands show charaterstics for longer response sequence, however users should be know that high quality responses often require clarity and control over prompt structure and length.
 
-> Semantic Similarity 
+> **Semantic Similarity** 
 
  - For consistent and predictable answers, use explicit prompt sturctures, generally commands are the most suitable option for this type of task. They show the best input-output mapping, resulting in more accurate response.
 
 - For Idea generation and creativity, open-ended and questions often give more flexibility to repsonse output. 
 
-> Sentiment variation
+> **Sentiment variation**
 
  - For more polarity and subjectivity, open-ended prompts often show much greater emotional tonality than commands and questions. This can be useful for applications, that are utlised in healthcare, where a more emotional tone can help for better engagement for the user.
 
   - Questions and Commands lean more towards a netural tone and give a better objectivity in responses for users. These types of prompts are better utilised in chatbots.
 
-> Lingustic features for appropriate response complexity
+> **Lingustic features for appropriate response complexity**
 
  - Having a High level structure for prompting can be useful for more task-based responses, these often can be helpful for providing structured responses for high-logic or multi step tasks.
 
